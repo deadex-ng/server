@@ -32,7 +32,7 @@ sudo apt install apache2
 
 ## Verifying the Installation
 
-Verify that Apache was successfully installed by running the command `apache --version`. This should display the version number of the installation of Apache. For reference, this guide is using `Apache` version `2.4.52`.
+Verify that Apache was successfully installed by running the command `apache2 --version`. This should display the version number of the installation of Apache. For reference, this guide is using `Apache` version `2.4.52`.
 
 ## Configuring the Firewall
 
